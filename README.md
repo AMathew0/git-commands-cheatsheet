@@ -4,6 +4,7 @@ A compact reference of essential Git commands for daily use, collaboration, and 
 🛠 Maintained by Ajeesh Mathai
 
 # 📦 1. Setup & Configuration
+
 git config --global user.name "Your Name"
 git config --global user.email "your@email.com"
 git config --list
