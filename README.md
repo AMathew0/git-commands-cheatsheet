@@ -1,4 +1,4 @@
-Git Commands Cheatsheet 🧠
+# Git Commands Cheatsheet 🧠
 A compact reference of essential Git commands for daily use, collaboration, and troubleshooting.
 🛠 Maintained by Ajeesh Mathai
 
