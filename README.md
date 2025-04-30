@@ -3,12 +3,12 @@ A compact reference of essential Git commands for daily use, collaboration, and 
 
 🛠 Maintained by Ajeesh Mathai
 
-📦 1. Setup & Configuration
+# 📦 1. Setup & Configuration
 git config --global user.name "Your Name"
 git config --global user.email "your@email.com"
 git config --list
 
-📁 2. Basic Workflow
+# 📁 2. Basic Workflow
 
 git init
 git clone <url>
@@ -18,7 +18,7 @@ git commit -m "Message"
 git push
 git pull
 
-🌿 3. Branching
+# 🌿 3. Branching
 
 git branch
 git checkout -b new-feature
@@ -26,7 +26,7 @@ git switch main
 git merge new-feature
 git branch -d new-feature
 
-🔁 4. Remote & Collaboration
+# 🔁 4. Remote & Collaboration
 
 git remote -v
 git remote add origin <url>
